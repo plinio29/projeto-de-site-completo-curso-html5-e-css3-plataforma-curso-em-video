@@ -1,5 +1,5 @@
 # projeto-de-site-completo-curso-html5-e-css3-plataforma-curso-em-vídeo
-Projeto de site completo utilizando as ferramentas html5 e css3 com responsividade total.
+Projeto de site completo feito no curso de html5 e css3 com o professor Gustavo Guanabara, foram utilizadas as ferramentas html5 e css3 com responsividade total.
 
 ![Projeto site1](https://user-images.githubusercontent.com/99043032/202881162-491d3dbf-cd34-40f6-9197-cb24607d954b.jpg)
 
