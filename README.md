@@ -10,3 +10,6 @@ Versão para mobile.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/99043032/202881181-6b17c4d1-3973-4a90-849f-79d44c301a91.jpg" width="350px" />
 </div>
+
+<br>
+Para acessar as pastas e o códico fonte selecione a branche "master".
